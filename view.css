@@ -1,0 +1,31 @@
+
+.gg-live-photo{
+    margin-left: 5%;
+   display: inline;
+    margin-top:auto;
+    
+}
+.heading{
+  text-align:start;
+  color:black;
+  margin-left: 5%;
+  width: 50%;
+}
+.paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.5;
+    width: 50%;
+    margin-left: 5%;
+    
+}
+.button{
+text-align: center;
+margin-left: 5%;
+background-color: khaki;
+}
+.img-circle{
+    text-align: end;
+    float: right;
+    float:inline-end;
+    
+}
